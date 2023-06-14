@@ -1,0 +1,1 @@
+**Statement**: The victim host in the function demonstration uses [MiTuan Shooting Range](https://chaoxi.zone/), the VPS host where the Supershell service is deployed is for temporary application, please do not try to attack any IP exposed in the demonstration The author has nothing to do with any behavior of the VPS host before and after the attack.
